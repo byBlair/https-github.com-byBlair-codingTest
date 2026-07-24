@@ -1,5 +1,5 @@
 def solution(n):
     answer = 0
-    for i in str(n):
-        answer += int(i)
+    for ch in str(n):
+        answer += int(ch)
     return answer
