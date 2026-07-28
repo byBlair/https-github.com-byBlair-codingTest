@@ -1,10 +1,10 @@
 # [level 1] 정수 내림차순으로 배치하기 - 12933 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12933?language=python3) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12933) 
 
 ### 성능 요약
 
-메모리: 9.36 MB, 시간: 0.03 ms
+메모리: 11.5 MB, 시간: 0.01 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 12월 26일 10:13:16
+2026년 07월 28일 10:55:21
 
 ### 문제 설명
 
