@@ -1,2 +1,6 @@
 def solution(arr):
-    return sum(arr) / len(arr)
+    answer = 0
+    for i in arr:
+        answer += i
+        result = answer / len(arr)
+    return result
